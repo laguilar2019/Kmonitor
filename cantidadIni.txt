@@ -1,0 +1,35 @@
+CREATE DEFINER=`root`@`localhost` FUNCTION `cantidadIni`(id int) RETURNS int(11)
+BEGIN
+
+declare ventas int(11);
+declare compras int(11);
+declare CaINI int(11);
+declare resul int(11);
+
+select sum(pd.cantidad) into ventas
+from pedido_detalle pd, producto p
+where pd.idProducto=p.idProducto
+and p.idProducto=id;
+
+select sum(cd.cantidad) into compras
+from compra_detalle cd, producto p, compra c
+where cd.idProducto=p.idProducto
+and cd.idCompra=c.idCompra
+and p.idProducto=id
+;
+
+select stock into CaINI from producto where idProducto=id;
+
+if ventas is null then
+set ventas =0;
+end if;
+
+if compras is null then
+set compras =0;
+end if;
+
+set resul=((CaINI+ventas)-compras);
+
+
+RETURN resul;
+END

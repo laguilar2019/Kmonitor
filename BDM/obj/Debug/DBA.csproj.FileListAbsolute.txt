@@ -1,0 +1,136 @@
+G:\Sistema Demo\sistema de inventario\DBA\bin\Debug\DBA.dll
+G:\Sistema Demo\sistema de inventario\DBA\bin\Debug\DBA.pdb
+G:\Sistema Demo\sistema de inventario\DBA\obj\Debug\DBA.csprojResolveAssemblyReference.cache
+G:\Sistema Demo\sistema de inventario\DBA\obj\Debug\DBA.dll
+G:\Sistema Demo\sistema de inventario\DBA\obj\Debug\DBA.pdb
+I:\Sistema Demo\sistema de inventario\DBA\bin\Debug\DBA.dll
+I:\Sistema Demo\sistema de inventario\DBA\bin\Debug\DBA.pdb
+I:\Sistema Demo\sistema de inventario\DBA\bin\Debug\MySql.Data.dll
+I:\Sistema Demo\sistema de inventario\DBA\obj\Debug\DBA.csprojResolveAssemblyReference.cache
+I:\Sistema Demo\sistema de inventario\DBA\obj\Debug\DBA.dll
+I:\Sistema Demo\sistema de inventario\DBA\obj\Debug\DBA.pdb
+E:\USO 2014\Desarrollo II\DESARROLLO DE SOFTWARE II\Sistema Demo_Ing.Menjivar\sistema de inventario\DBA\bin\Debug\DBA.dll
+E:\USO 2014\Desarrollo II\DESARROLLO DE SOFTWARE II\Sistema Demo_Ing.Menjivar\sistema de inventario\DBA\bin\Debug\DBA.pdb
+E:\USO 2014\Desarrollo II\DESARROLLO DE SOFTWARE II\Sistema Demo_Ing.Menjivar\sistema de inventario\DBA\obj\Debug\DBA.csprojResolveAssemblyReference.cache
+E:\USO 2014\Desarrollo II\DESARROLLO DE SOFTWARE II\Sistema Demo_Ing.Menjivar\sistema de inventario\DBA\obj\Debug\DBA.dll
+E:\USO 2014\Desarrollo II\DESARROLLO DE SOFTWARE II\Sistema Demo_Ing.Menjivar\sistema de inventario\DBA\obj\Debug\DBA.pdb
+C:\Users\User\Desktop\Parcial II\Sistema Demo_Clinica\sistema clinico\DBA\bin\Debug\DBA.dll
+C:\Users\User\Desktop\Parcial II\Sistema Demo_Clinica\sistema clinico\DBA\bin\Debug\DBA.pdb
+C:\Users\User\Desktop\Parcial II\Sistema Demo_Clinica\sistema clinico\DBA\obj\Debug\DBA.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Parcial II\Sistema Demo_Clinica\sistema clinico\DBA\obj\Debug\DBA.dll
+C:\Users\User\Desktop\Parcial II\Sistema Demo_Clinica\sistema clinico\DBA\obj\Debug\DBA.pdb
+C:\Users\Administrador\Desktop\Parcial II\Sistema Demo_Clinica\sistema clinico\DBA\bin\Debug\DBA.dll
+C:\Users\Administrador\Desktop\Parcial II\Sistema Demo_Clinica\sistema clinico\DBA\bin\Debug\DBA.pdb
+C:\Users\Administrador\Desktop\Parcial II\Sistema Demo_Clinica\sistema clinico\DBA\obj\Debug\DBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Parcial II\Sistema Demo_Clinica\sistema clinico\DBA\obj\Debug\DBA.dll
+C:\Users\Administrador\Desktop\Parcial II\Sistema Demo_Clinica\sistema clinico\DBA\obj\Debug\DBA.pdb
+C:\Users\Yesica\Downloads\Sistema Demo_ing.Menjivar\Parcial II\Parcial II\Parcial II\SistemaClinico\sistema clinico\DBA\bin\Debug\DBA.dll
+C:\Users\Yesica\Downloads\Sistema Demo_ing.Menjivar\Parcial II\Parcial II\Parcial II\SistemaClinico\sistema clinico\DBA\bin\Debug\DBA.pdb
+C:\Users\Yesica\Downloads\Sistema Demo_ing.Menjivar\Parcial II\Parcial II\Parcial II\SistemaClinico\sistema clinico\DBA\obj\Debug\DBA.csprojResolveAssemblyReference.cache
+C:\Users\Yesica\Downloads\Sistema Demo_ing.Menjivar\Parcial II\Parcial II\Parcial II\SistemaClinico\sistema clinico\DBA\obj\Debug\DBA.dll
+C:\Users\Yesica\Downloads\Sistema Demo_ing.Menjivar\Parcial II\Parcial II\Parcial II\SistemaClinico\sistema clinico\DBA\obj\Debug\DBA.pdb
+C:\Users\PC_02PC\Documents\Visual Studio 2012\Parcial IINuevo\Parcial II\SistemaClinico\sistema clinico\DBA\bin\Debug\DBA.dll
+C:\Users\PC_02PC\Documents\Visual Studio 2012\Parcial IINuevo\Parcial II\SistemaClinico\sistema clinico\DBA\bin\Debug\DBA.pdb
+C:\Users\PC_02PC\Documents\Visual Studio 2012\Parcial IINuevo\Parcial II\SistemaClinico\sistema clinico\DBA\obj\Debug\DBA.csprojResolveAssemblyReference.cache
+C:\Users\PC_02PC\Documents\Visual Studio 2012\Parcial IINuevo\Parcial II\SistemaClinico\sistema clinico\DBA\obj\Debug\DBA.dll
+C:\Users\PC_02PC\Documents\Visual Studio 2012\Parcial IINuevo\Parcial II\SistemaClinico\sistema clinico\DBA\obj\Debug\DBA.pdb
+I:\USO 2014\Desarrollo II\Parcial IINuevo\Parcial II\SistemaClinico\sistema clinico\DBA\bin\Debug\DBA.dll
+I:\USO 2014\Desarrollo II\Parcial IINuevo\Parcial II\SistemaClinico\sistema clinico\DBA\bin\Debug\DBA.pdb
+I:\USO 2014\Desarrollo II\Parcial IINuevo\Parcial II\SistemaClinico\sistema clinico\DBA\obj\Debug\DBA.csprojResolveAssemblyReference.cache
+I:\USO 2014\Desarrollo II\Parcial IINuevo\Parcial II\SistemaClinico\sistema clinico\DBA\obj\Debug\DBA.dll
+I:\USO 2014\Desarrollo II\Parcial IINuevo\Parcial II\SistemaClinico\sistema clinico\DBA\obj\Debug\DBA.pdb
+C:\Users\Laptop4_\Documents\Visual Studio 2012\Projects\ServiceExpress\dba\obj\Debug\DBA.csprojResolveAssemblyReference.cache
+C:\Users\Laptop4_\Documents\Visual Studio 2012\Projects\ServiceExpress\dba\obj\Debug\DBA.dll
+C:\Users\Laptop4_\Documents\Visual Studio 2012\Projects\ServiceExpress\dba\obj\Debug\DBA.pdb
+C:\Users\Laptop4_\Documents\Visual Studio 2012\Projects\ServiceExpress\dba\bin\Debug\DBA.dll
+C:\Users\Laptop4_\Documents\Visual Studio 2012\Projects\ServiceExpress\dba\bin\Debug\DBA.pdb
+C:\Users\Laptop4_\Documents\Visual Studio 2012\Projects\ServiceExpress\dba\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\ServiceExpressWModel\dba\bin\Debug\DBA.dll.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\ServiceExpressWModel\dba\bin\Debug\DBA.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\ServiceExpressWModel\dba\bin\Debug\DBA.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\ServiceExpressWModel\dba\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\ServiceExpressWModel\dba\obj\Debug\DBA.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\ServiceExpressWModel\dba\obj\Debug\DBA.frmCNX.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\ServiceExpressWModel\dba\obj\Debug\DBA.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\ServiceExpressWModel\dba\obj\Debug\DBA.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\ServiceExpressWModel\dba\obj\Debug\DBA.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\ServiceExpress\dba\bin\Debug\DBA.dll.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\ServiceExpress\dba\bin\Debug\DBA.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\ServiceExpress\dba\bin\Debug\DBA.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\ServiceExpress\dba\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\ServiceExpress\dba\obj\Debug\DBA.frmCNX.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\ServiceExpress\dba\obj\Debug\DBA.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\ServiceExpress\dba\obj\Debug\DBA.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\ServiceExpress\dba\obj\Debug\DBA.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ServiceExpress\dba\bin\Debug\DBA.dll.config
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ServiceExpress\dba\bin\Debug\DBA.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ServiceExpress\dba\bin\Debug\DBA.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ServiceExpress\dba\bin\Debug\MySql.Data.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ServiceExpress\dba\obj\Debug\DBA.frmCNX.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ServiceExpress\dba\obj\Debug\DBA.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ServiceExpress\dba\obj\Debug\DBA.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\ServiceExpress\dba\obj\Debug\DBA.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceExpress\dba\bin\Debug\DBA.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceExpress\dba\bin\Debug\DBA.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceExpress\dba\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceExpress\dba\obj\Debug\DBA.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceExpress\dba\obj\Debug\DBA.frmCNX.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceExpress\dba\obj\Debug\DBA.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceExpress\dba\obj\Debug\DBA.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceExpress\dba\obj\Debug\DBA.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceExpress\dba\obj\Debug\DBA.ConnectionSettings.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceExpress\dba\obj\Debug\DBA.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\bin\Debug\DBA.dll.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\bin\Debug\DBA.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\bin\Debug\DBA.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\bin\Debug\MySqlBackup.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\Interop.Shell32.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.csproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.ConnectionSettings.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.frmBackup.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.frmBackupProgressbar.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.frmCNX.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.pdb
+C:\Users\Usr\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\bin\Debug\DBA.dll.config
+C:\Users\Usr\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\bin\Debug\DBA.dll
+C:\Users\Usr\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\bin\Debug\DBA.pdb
+C:\Users\Usr\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\bin\Debug\MySql.Data.dll
+C:\Users\Usr\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\bin\Debug\MySqlBackup.dll
+C:\Users\Usr\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\Interop.Shell32.dll
+C:\Users\Usr\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.csproj.ResolveComReference.cache
+C:\Users\Usr\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.ConnectionSettings.resources
+C:\Users\Usr\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.frmBackup.resources
+C:\Users\Usr\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.frmBackupProgressbar.resources
+C:\Users\Usr\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.frmCNX.resources
+C:\Users\Usr\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.frmDesactivar.resources
+C:\Users\Usr\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.frmLicencia.resources
+C:\Users\Usr\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.frmSettings.resources
+C:\Users\Usr\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.Properties.Resources.resources
+C:\Users\Usr\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.csproj.GenerateResource.Cache
+C:\Users\Usr\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.dll
+C:\Users\Usr\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.pdb
+C:\Users\Usr\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.csprojResolveAssemblyReference.cache
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\bin\Debug\DBA.dll.config
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\bin\Debug\DBA.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\bin\Debug\DBA.pdb
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\bin\Debug\MySql.Data.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\bin\Debug\MySqlBackup.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\Interop.Shell32.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.csproj.ResolveComReference.cache
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.ConnectionSettings.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.frmBackup.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.frmBackupProgressbar.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.frmCNX.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.frmDesactivar.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.frmLicencia.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.frmSettings.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.Properties.Resources.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.csproj.GenerateResource.Cache
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.pdb
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\ServiceXpress\dba\obj\Debug\DBA.csprojResolveAssemblyReference.cache

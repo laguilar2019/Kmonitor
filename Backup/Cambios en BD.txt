@@ -1,0 +1,37 @@
+******************************************************************************************
+***PASO 1 *** CREAR LA TABLA SI NO EXISTE
+******************************************************************************************
+CREATE TABLE IF NOT EXISTS `egreso_tipo` (
+  `idEgresoTipo` int(3) NOT NULL,
+  `gresoTipo` varchar(255) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+ALTER TABLE `egreso_tipo` ADD PRIMARY KEY IF NOT EXISTS (`idEgresoTipo`);
+
+
+******************************************************************************************
+***PASO 2 *** MODIFICAR LA TABLA EGRESO, SE AGREGA EL CAMPO idEgresoTipo SI NO EXISTE
+******************************************************************************************
+  
+ALTER TABLE `egreso` ADD IF NOT EXISTS `idEgresoTipo` INT(3) NULL AFTER `idEgreso`;
+ALTER TABLE `egreso` ADD INDEX IF NOT EXISTS `Fk_egreso_tipo` (`idEgresoTipo`) USING BTREE;
+
+ALTER TABLE `egreso` DROP FOREIGN KEY IF EXISTS `Fk_egreso_tipo`; //SI DA PROBLEMAS PUEDES ELIMINAR ESTA LÌNEA Y PROBAR
+
+ALTER TABLE `egreso` ADD CONSTRAINT `Fk_egreso_tipo` FOREIGN KEY IF NOT EXISTS(`idEgresoTipo`) REFERENCES `servicexpress`.`egreso_tipo`(`idEgresoTipo`) ON DELETE SET NULL ON UPDATE CASCADE;
+
+
+
+
+  
+ ***
+ 
+ 
+
+ 
+ 
+  
+ 
+ 
+ ALTER TABLE `egreso` DROP FOREIGN KEY `Fk_egreso_tipo`
+ 

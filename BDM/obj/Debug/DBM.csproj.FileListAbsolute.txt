@@ -1,0 +1,47 @@
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\POSGeneric\BDM\bin\Debug\DBM.dll.config
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\POSGeneric\BDM\bin\Debug\DBM.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\POSGeneric\BDM\bin\Debug\DBM.pdb
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\POSGeneric\BDM\bin\Debug\MySql.Data.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\POSGeneric\BDM\bin\Debug\MySqlBackup.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\POSGeneric\BDM\obj\Debug\DBM.csprojResolveAssemblyReference.cache
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\POSGeneric\BDM\obj\Debug\Interop.Shell32.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\POSGeneric\BDM\obj\Debug\DBM.csproj.ResolveComReference.cache
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\POSGeneric\BDM\obj\Debug\DBM.GUI.ConnectionString.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\POSGeneric\BDM\obj\Debug\DBM.GUI.frmBackup.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\POSGeneric\BDM\obj\Debug\DBM.GUI.frmBackupRestore.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\POSGeneric\BDM\obj\Debug\DBM.GUI.frmCNX.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\POSGeneric\BDM\obj\Debug\DBM.GUI.frmSettings.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\POSGeneric\BDM\obj\Debug\DBM.Properties.Resources.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\POSGeneric\BDM\obj\Debug\DBM.csproj.GenerateResource.Cache
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\POSGeneric\BDM\obj\Debug\DBM.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\POSGeneric\BDM\obj\Debug\DBM.pdb
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\BDM\bin\Debug\DBM.dll.config
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\BDM\bin\Debug\DBM.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\BDM\bin\Debug\DBM.pdb
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\BDM\bin\Debug\MySql.Data.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\BDM\bin\Debug\MySqlBackup.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\BDM\obj\Debug\DBM.csprojResolveAssemblyReference.cache
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\BDM\obj\Debug\Interop.Shell32.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\BDM\obj\Debug\DBM.csproj.ResolveComReference.cache
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\BDM\obj\Debug\DBM.GUI.ConnectionString.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\BDM\obj\Debug\DBM.GUI.frmBackup.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\BDM\obj\Debug\DBM.GUI.frmCNX.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\BDM\obj\Debug\DBM.Properties.Resources.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\BDM\obj\Debug\DBM.csproj.GenerateResource.Cache
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\BDM\obj\Debug\DBM.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\BDM\obj\Debug\DBM.pdb
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\BDM\bin\Debug\DBM.dll.config
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\BDM\bin\Debug\DBM.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\BDM\bin\Debug\DBM.pdb
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\BDM\bin\Debug\MySql.Data.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\BDM\bin\Debug\MySqlBackup.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\BDM\obj\Debug\DBM.csprojResolveAssemblyReference.cache
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\BDM\obj\Debug\Interop.Shell32.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\BDM\obj\Debug\DBM.csproj.ResolveComReference.cache
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\BDM\obj\Debug\DBM.GUI.ConnectionString.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\BDM\obj\Debug\DBM.GUI.frmBackup.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\BDM\obj\Debug\DBM.GUI.frmCNX.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\BDM\obj\Debug\DBM.Properties.Resources.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\BDM\obj\Debug\DBM.csproj.GenerateResource.Cache
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\BDM\obj\Debug\DBM.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\BDM\obj\Debug\DBM.pdb

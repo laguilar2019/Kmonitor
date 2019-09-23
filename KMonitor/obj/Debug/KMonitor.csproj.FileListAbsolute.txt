@@ -1,0 +1,102 @@
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\KMonitor.exe.config
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\KMonitor.exe
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\KMonitor.pdb
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\DBM.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\MySql.Data.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\MySqlBackup.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\FlashControlV71.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\stdole.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\bin\Debug\DBM.pdb
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.csprojResolveAssemblyReference.cache
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.Form1.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmClienteProveedor.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmDetallePedido.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmEgreso.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmEgresoTipo.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmEstado.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmLogin.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmMenu.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmMonitor.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmPermisos.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmProducto.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmSelectState.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmSettings.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmUsers.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.PruebaMonitor.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.Properties.Resources.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.REPORTS.visorGenerico.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.csproj.GenerateResource.Cache
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.exe
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.pdb
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.Kardex.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.bProducto.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmFamiliaMonitor.resources
+C:\Users\UsrLtop\Documents\Visual Studio 2015\Projects\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.configInicial.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\KMonitor.exe.config
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\KMonitor.exe
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\KMonitor.pdb
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\DBM.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\MySql.Data.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\MySqlBackup.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\FlashControlV71.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\stdole.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\bin\Debug\DBM.pdb
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.csprojResolveAssemblyReference.cache
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.Form1.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.bProducto.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmClienteProveedor.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmDetallePedido.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmEgreso.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmEgresoTipo.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmEstado.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmFamiliaMonitor.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmLogin.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmMenu.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmMonitor.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmPermisos.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmProducto.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmSelectState.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmSettings.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.frmUsers.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.Kardex.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.PruebaMonitor.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.GUI.configInicial.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.Properties.Resources.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.REPORTS.visorGenerico.resources
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.csproj.GenerateResource.Cache
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.exe
+C:\Users\LAGUILAR\Documents\KMonitor 21-09-2019\KMonitor\KMonitor\obj\Debug\KMonitor.pdb
